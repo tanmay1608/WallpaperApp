@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group>
+    <item android:id="@+id/nav_home"
+        android:title="Home"
+        android:icon="@drawable/home"/>
+    <item android:id="@+id/nav_trending"
+        android:title="Trending"
+        android:icon="@drawable/trending"/>
+    <item android:id="@+id/nav_most_viewd"
+        android:title="Most Viewed"/>
+    <item android:id="@+id/nav_logout"
+        android:title="Log Out"/>
+    <item android:id="@+id/nav_about"
+        android:title="About"/>
+</group>
+</menu>
